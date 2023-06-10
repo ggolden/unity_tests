@@ -1,0 +1,4 @@
+[submodule "Assets/VScaleAssets"]
+	path = Assets/VScaleAssets
+	url = https://github.com/ggolden/VScaleAssets.git
+	branch = main
